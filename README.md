@@ -54,7 +54,7 @@ portfolio/
 ## 📬 Contact
 
 - 📞 Phone: 7317567350  
-- ✉️ Email: indiagupta33@gmail.com  
+- ✉️ Email: indianavneetgupta33@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/navneet-gupta-4a1644297
 
 ---
