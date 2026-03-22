@@ -18,7 +18,7 @@ I focus on building **scalable applications** and delivering **data-driven solut
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio](https://your-netlify-link.netlify.app)
+🔗 [View Portfolio](https://portfolio-ng440.netlify.app/)
 
 ---
 
